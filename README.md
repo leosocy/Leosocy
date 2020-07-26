@@ -1,16 +1,20 @@
-### Hi there 👋
+### Welcome to Leosocy's Hut 👋
 
-<!--
-**Leosocy/Leosocy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Leosocy.Leosocy)
 
-Here are some ideas to get you started:
+Hi, I'm Leosocy 😎, a backend-engineer working at @ByteDance now. Beside's programming, I like TV series and game living📺🎬.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
+**More about me...**
+
+- 👨🏻‍💻 I’m currently working on [IntelliProxy](https://github.com/Leosocy/IntelliProxy).
+- 📚 I’m currently learning technologies about BigData, such as Flink🐿, Kafka, Hive, Spark, etc.
+- 💬 Ask me about anything! I am happy to help and guide you.
+- 📫 How to reach me: leosocy@gmail.com | [Blog](https://blog.leosocy.top)
+
+### Show some ❤️ by starring some of the repositories!
+
+![Leosocy's github stats](https://github-readme-stats.vercel.app/api?username=Leosocy&show_icons=true&hide_border=true)
+
+⭐️ From [Leosocy](https://github.com/Leosocy)
