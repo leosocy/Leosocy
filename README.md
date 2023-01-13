@@ -8,13 +8,13 @@ Hi, I'm Leosocy 😎, a backend-engineer working at @ByteDance now. Beside's pro
 
 **More about me...**
 
-- 👨🏻‍💻 I’m currently working on [IntelliProxy](https://github.com/Leosocy/IntelliProxy).
+- 👨🏻‍💻 I’m currently working on [tukun](https://github.com/Leosocy/tukun).
 - 📚 I’m currently learning technologies about BigData, such as Flink🐿, Kafka, Hive, Spark, etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
 - 📫 How to reach me: leosocy@gmail.com | [Blog](https://blog.leosocy.top)
 
 ### Show some ❤️ by starring some of the repositories!
 
-![Leosocy's github stats](https://github-readme-stats.vercel.app/api?username=Leosocy&show_icons=true&hide_border=true&theme=tokyonight)
+![Leosocy's Github stats](https://github-readme-stats.vercel.app/api?username=Leosoct&show_icons=true&hide_border=true&theme=tokyonight)
 
 ⭐️ From [Leosocy](https://github.com/Leosocy)
