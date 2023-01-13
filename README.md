@@ -15,6 +15,6 @@ Hi, I'm Leosocy 😎, a backend-engineer working at @ByteDance now. Beside's pro
 
 ### Show some ❤️ by starring some of the repositories!
 
-![Leosocy's Github stats](https://github-readme-stats.vercel.app/api?username=Leosoct&show_icons=true&hide_border=true&theme=tokyonight)
+![Leosocy's Github stats](https://github-readme-stats.vercel.app/api?username=Leosocy&show_icons=true&hide_border=true&theme=tokyonight)
 
 ⭐️ From [Leosocy](https://github.com/Leosocy)
